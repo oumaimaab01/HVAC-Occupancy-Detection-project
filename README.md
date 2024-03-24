@@ -27,7 +27,7 @@ predictions might help Heating, Ventilating and Air Conditioning (HVAC) sector t
 room occupancy. In this project, several performance of ML & DL techniques in
 Occupancy classification have been used, in addition to the comparison between these different classification algorithms to conclude which distinctly outperforms the others.
 
-What is the effectiveness of using machine learning in occupancy detection for HVAC systems ?
+# What is the effectiveness of using machine learning in occupancy detection for HVAC systems ?
 
 The integration of machine learning for occupancy detection in HVAC systems represents a significant advancement for more efficient energy management. By analyzing environmental data, this approach allows for the anticipation of occupant presence, thereby facilitating real-time adjustment of HVAC parameters. This dynamic adaptation helps minimize unnecessary energy consumption, thus improving the environmental sustainability of buildings while ensuring optimal comfort when spaces are indeed occupied.
 
